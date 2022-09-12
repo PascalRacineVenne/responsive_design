@@ -1,0 +1,46 @@
+body {
+  --blue: #2e7ad3;
+  --darkBlue: #104c90;
+  --orange: #ff8000;
+  --gray: #f1f1f1;
+  font-size: 16px;
+  --padding: 25px;
+}
+
+h1 {
+  font-size: 3rem;
+  color: var(--blue);
+  margin: 45px 0;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2rem;
+  color: var(--darkBlue);
+  margin: 0 0 10px;
+}
+
+.blog-post {
+  background-color: var(--gray);
+  padding: var(--padding);
+  width: 450px;
+  margin: 0 auto;
+}
+
+p {
+  padding-bottom: 9px;
+}
+
+a {
+  color: var(--orange);
+  font-weight: bold;
+}
+
+a:focus,
+a:hover {
+  color: var(--darkBlue);
+}
+
+.read-more {
+  margin: 0;
+}
