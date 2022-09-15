@@ -1,0 +1,8 @@
+Sometimes we need something which can stay inline, but which we can set margins and padding on
+
+inline => no margin || no padding (overlap)
+block => creates a new line of text
+
+display: inline-block
+
+common use case if for buttons

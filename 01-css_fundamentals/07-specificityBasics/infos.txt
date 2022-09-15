@@ -1,0 +1,22 @@
+SPECIFITY...
+
+Specificity in CSS is all about how specific our selectors are.
+THE MORE SPECIFIC THEY ARE, THE HIGHER PRIORITY THEY HAVE!
+
+From the selector's we've seen so far...
+lowest to highest
+
+- element selector
+- class selector
+- id selector
+
+This is one of the reasons many class naming conventions only use classes.
+
+If you understand specificity, you can get away with other ways of approaching thins, but sometimes it complicated matters in the long run for nothing.
+
+======================
+
+General rules get put on element selectors
+  (body, h1, p) low specificity
+
+Everything else gets a class
