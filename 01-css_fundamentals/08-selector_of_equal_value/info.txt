@@ -1,0 +1,5 @@
+What to do when two selectors are of equal value?
+
+last one always wins...
+
+Reads from top to bottom.

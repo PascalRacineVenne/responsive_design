@@ -1,0 +1,4 @@
+Compound selectors
+
+You can be more specific with your selectors by usiing what is called:
+Compound selectors!
